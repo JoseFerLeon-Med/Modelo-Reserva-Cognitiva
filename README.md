@@ -16,7 +16,7 @@ Para representar esto, se desarrolló un *script* en R simulando la trayectoria 
 ## 📈 Hallazgos del Modelo
 La visualización generada con `ggplot2` evidencia una translación de la curva de supervivencia cognitiva. Como se observa en la gráfica adjunta, el grupo bilingüe logra retrasar la manifestación clínica de atrofia neurodegenerativa por un periodo aproximado de 5 años.
 
-![Gráfica de Supervivencia Cognitiva](grafica RC 01.png)
+![Gráfica de Supervivencia Cognitiva](grafica%20RC%2001.png)
 
 ---
 *Este repositorio sirve como complemento analítico a los protocolos de investigación teórica sobre plasticidad neuronal, demostrando el uso de herramientas computacionales (data science) para el modelado de dinámicas biológicas.*
