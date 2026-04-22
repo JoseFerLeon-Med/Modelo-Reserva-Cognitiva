@@ -8,12 +8,12 @@ Simulación en R sobre el impacto del bilingüismo en la plasticidad fronto-estr
 ## Objetivo Clínico
 Este repositorio presenta un modelo de datos conceptual para ilustrar el mecanismo de **Reserva Cognitiva (RC)**. El objetivo es visualizar cómo el aprendizaje de una segunda lengua (L2) en la etapa adulta actúa como un andamiaje neuroprotector, compensando funcionalmente el declive asociado a la senescencia.
 
-## 🔬 Fisiopatología y Metodología
+##  Fisiopatología y Metodología
 El modelo simula la conectividad funcional del eje Broca-Caudado. Mientras que en una trayectoria de envejecimiento habitual el declive de la función ejecutiva sigue un curso estándar, el esfuerzo inhibitorio constante del bilingüismo optimiza las vías GABAérgicas de los ganglios basales. 
 
 Para representar esto, se desarrolló un *script* en R simulando la trayectoria de declive cognitivo (edad 60-90 años) en dos cohortes.
 
-## 📈 Hallazgos del Modelo
+##  Hallazgos del Modelo
 La visualización generada con `ggplot2` evidencia una translación de la curva de supervivencia cognitiva. Como se observa en la gráfica adjunta, el grupo bilingüe logra retrasar la manifestación clínica de atrofia neurodegenerativa por un periodo aproximado de 5 años.
 
 ![Gráfica de Supervivencia Cognitiva](grafica%20RC%2001.png)
